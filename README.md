@@ -37,13 +37,6 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats-fy6n.vercel.app/api/top-langs/?username=willevini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
       <br />
       <img
         align="left"
