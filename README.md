@@ -1,8 +1,6 @@
 ## 👋 Hello, I am Vinícius! - but you can call me Vini or Wille!
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vini&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-![](https://komarev.com/ghpvc/?username=willevini&color=006bed)
-
 ## About me
 
 - 🤔 Exploring new technologies and developing new software solutions.
