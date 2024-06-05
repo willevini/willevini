@@ -32,18 +32,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-viniciuswillealves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuswillealves@gmail.com)](mailto:viniciuswillealves@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/willevini?label=follow&style=social)](https://github.com/willevini)
 
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=willevini&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
